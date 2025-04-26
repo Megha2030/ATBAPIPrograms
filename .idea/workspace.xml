@@ -91,7 +91,7 @@
       <recent name="org.example.ex08_testNG_examples" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng.xml">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="APITesting16_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB10XAPIAutomationPrograms" />
       <extension name="coverage">
@@ -102,23 +102,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example.ex08_testNG_examples" />
       <option name="MAIN_CLASS_NAME" value="org.example.ex08_testNG_examples.APITesting16_Enabled" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting18_InvocationCount" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB10XAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ex08_testNG_examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.ex08_testNG_examples" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ex08_testNG_examples.APITesting18_InvocationCount" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -170,13 +153,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng.xml" />
         <item itemvalue="TestNG.APITesting20_TestNg_Assertions" />
         <item itemvalue="TestNG.APITesting23_RestAssured_GSon" />
         <item itemvalue="TestNG.APITesting16_Enabled" />
-        <item itemvalue="TestNG.APITesting18_InvocationCount" />
       </list>
     </recent_temporary>
   </component>
