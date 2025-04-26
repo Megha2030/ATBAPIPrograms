@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite">
+    <test name="API Tests">
+
+        <parameter name = "browser" value = "chrome">
+        </parameter>
+
+        <classes>
+            <class name="org.example.ex08_testNG_examples.APITesting15_Priority"/>
+        </classes>
+    </test>
+</suite>

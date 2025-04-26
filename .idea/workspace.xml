@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfa3a4fd-38d8-4344-80dd-ec9f389fbde8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex01_RestAssured_Basics/APITesting01_get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex01_RestAssured_Basics/APITesting02_get_userInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex01_RestAssured_Basics/APITesting03_Multiple_Tcs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex02_RestAssured_TestNg_AllureReport/APITesting04_MultipleTc_TestNg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex03_GETRequest/APITesting05_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex03_GETRequest/APITesting06_Get_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex04_POSTRequest/APITesting07_POST_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex05_PUTRequest/APITesting08_PUT_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex06_PATCHRequest/APITesting09_PATCH_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex07_DELETERequest/APITesting10_DELETE_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/API19_AllAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting11_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting12_Priority_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting13_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting14_DependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting15_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting16_Enabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting17_AlwaysRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex08_testNG_examples/APITesting18_InvocationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex09_Assertions/APITesting19_RestAssured_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex09_Assertions/APITesting20_TestNg_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex09_Assertions/APITesting21_TestNg_AssertJ_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/APITesting22_RestAssured_PayloadMgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/Manual/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/Manual/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/gson/APITesting23_RestAssured_GSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/gson/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ex10_PayloadManagement/gson/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_APITesting11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_APITesting13Groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_APITesting15_paramChrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_APITesting15_paramEdge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_usingChatgpt.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uwVlFI4lFlA2d192zAwA5m9fT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.APITesting01.executor": "Run",
+    "Application.APITesting01_get.executor": "Run",
+    "Application.APITesting02_get_userInput.executor": "Run",
+    "Application.APITesting03_Multiple_Tcs.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.API19_AllAnnotations.executor": "Run",
+    "TestNG.APITesting04_MultipleTc_TestNg.executor": "Run",
+    "TestNG.APITesting06_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting07_POST_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting07_POST_NonBDDStyle.testGetRequest_PosTc1.executor": "Coverage",
+    "TestNG.APITesting07_POST_NonBDDStyle.testPostRequest_PosTc1.executor": "Debug",
+    "TestNG.APITesting08_PUT_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting09_PATCH_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting10_DELETE_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting10_DELETE_NonBDDStyle.test_delete_non_bdd.executor": "Run",
+    "TestNG.APITesting11_All_Annotations.putTest.executor": "Run",
+    "TestNG.APITesting12_Priority_Annotations.executor": "Run",
+    "TestNG.APITesting13_Groups.executor": "Run",
+    "TestNG.APITesting14_DependsOnMethod.executor": "Run",
+    "TestNG.APITesting14_DependsOnMethod.serverStartedOK.executor": "Run",
+    "TestNG.APITesting15_Priority.executor": "Run",
+    "TestNG.APITesting16_Enabled.executor": "Run",
+    "TestNG.APITesting17_AlwaysRun.executor": "Run",
+    "TestNG.APITesting18_InvocationCount.executor": "Run",
+    "TestNG.APITesting19_RestAssured_Assertions.executor": "Run",
+    "TestNG.APITesting20_TestNg_Assertions.hardAssertion.executor": "Run",
+    "TestNG.APITesting20_TestNg_Assertions.softAssertion.executor": "Run",
+    "TestNG.APITesting21_TestNg_AssertJ_Assertions.executor": "Run",
+    "TestNG.APITesting22_RestAssured_PayloadMgmt.executor": "Run",
+    "TestNG.APITesting22_RestAssured_PayloadMgmt.testPost.executor": "Run",
+    "TestNG.APITesting23_RestAssured_GSon.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng.xml.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng_APITesting11.xml.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng_APITesting13Groups.xml.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng_APITesting15_paramChrome.xml.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms/testng_APITesting15_paramEdge.xml.executor": "Run",
+    "TestNG.C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/testng8.xml/testng8.xml.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/OneDrive/Documents/TestAcademy/APIAutomationPrograms/ATB10XAPIAutomationPrograms",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Documents\TestAcademy\APIAutomationPrograms\ATB10XAPIAutomationPrograms" />
+      <recent name="C:\Users\hp\OneDrive\Documents\TestAcademy\APIAutomationPrograms\ATB10XAPIAutomationPrograms\target" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Documents\TestAcademy\APIAutomationPrograms\testng8.xml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.ex08_testNG_examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.APITesting23_RestAssured_GSon">
+    <configuration name="APITesting16_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex08_testNG_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex08_testNG_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex08_testNG_examples.APITesting16_Enabled" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting18_InvocationCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex08_testNG_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex08_testNG_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex08_testNG_examples.APITesting18_InvocationCount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting19_RestAssured_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex09_Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex09_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex09_Assertions.APITesting19_RestAssured_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting22_RestAssured_PayloadMgmt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex10_PayloadManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex10_PayloadManagement" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex10_PayloadManagement.APITesting22_RestAssured_PayloadMgmt" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting23_RestAssured_GSon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex10_PayloadManagement.gson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex10_PayloadManagement.gson" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex10_PayloadManagement.gson.APITesting23_RestAssured_GSon" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.APITesting23_RestAssured_GSon" />
+        <item itemvalue="TestNG.APITesting16_Enabled" />
+        <item itemvalue="TestNG.APITesting18_InvocationCount" />
+        <item itemvalue="TestNG.APITesting22_RestAssured_PayloadMgmt" />
+        <item itemvalue="TestNG.APITesting19_RestAssured_Assertions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa3a4fd-38d8-4344-80dd-ec9f389fbde8" name="Changes" comment="" />
+      <created>1743159776149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743159776149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATB10XAPIAutomationPrograms$APITesting07_POST_NonBDDStyle_testGetRequest_PosTc1.ic" NAME="APITesting07_POST_NonBDDStyle.testGetRequest_PosTc1 Coverage Results" MODIFIED="1743355869072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.ex04_POSTRequest.*</FILTER>
+    </SUITE>
+  </component>
+</project>

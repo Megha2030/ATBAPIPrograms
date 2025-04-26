@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite">
+    <test name="API Tests">
+
+        <groups>
+            <run>
+                <include name= "sanity">
+
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.ex08_testNG_examples.APITesting13_Groups"/>
+        </classes>
+    </test>
+</suite>
